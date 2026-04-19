@@ -1,6 +1,7 @@
 # 이수인의 자기 소개 페이지입니다.
 ## 데이터의 조합 너머, 성찰의 언어를 틔우는 편집자를 꿈꾸다.
-![사진](https://github.com/user-attachments/assets/c1003638-8b4a-4284-a747-501b0f8e96d5)
+
+![사진](https://github.com/user-attachments/assets/f7d43eae-910d-41fd-90ac-98e3412b777b)
 
 글은 인간만이 할 수 있는 *성찰의 언어*입니다. 저는 그 믿음을 바탕으로, AI 시대에도 흔들리지 않는 **출판 편집자**가 되고자 합니다.
 
